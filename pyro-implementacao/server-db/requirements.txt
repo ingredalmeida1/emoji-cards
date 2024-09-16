@@ -1,0 +1,2 @@
+sqlalchemy==2.0.31
+pyro5==5.15
